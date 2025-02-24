@@ -1,0 +1,115 @@
+h1 { font-family : "Prompt", serif;
+	color: black; 
+}
+
+h2 { font-family : "Prompt", serif;
+	color: black; 
+}
+
+#education p, li { font-family: "Lato", serif;
+				color: black;
+}
+
+#contact p { font-family: "Lato", serif;
+			color: black;
+}
+
+#skills p { font-family: "Lato", serif;
+			color: black;
+}
+
+#contact { text-align: center;
+}
+
+#skills h2 {text-align: center;
+}
+
+#education h2 {text-align: center;
+}
+
+#popular h2 {text-align: center;
+}
+
+#experience h2 {text-align: center;
+}
+
+#skills h4 {text-transform: uppercase;
+			letter-spacing: 1.5px;
+			color: black;
+}
+
+#education p {text-transform: uppercase;
+			  letter-spacing: 1.5px;
+			  color: black;
+}
+
+body {background-color: #b3daff;
+}
+
+body {
+	background-image: url("background.png");
+	background-size: cover;	
+}
+
+#experience p {text-transform: uppercase;
+			letter-spacing: 1.5px;
+			color: black;
+}
+
+#education h4 {text-transform: uppercase;
+			letter-spacing: 1.5px;
+			color: black;
+}
+
+#popular p {text-transform: uppercase;
+			letter-spacing: 1.5px;
+			color: black;
+}
+
+#info h4, p, ul { text-indent: 250px;
+}
+
+ul {
+	list-style-position: outside;
+	list-style-type: "★ ";
+	padding-left: 250px;
+}
+
+li {
+	text-indent: 0px;
+}
+
+a {
+    color: blue;
+    text-decoration: none; 
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:focus {
+    outline: 2px white; 
+}
+
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+
+a:active {
+    color: white;
+}
+
+#contact h1 {
+    background-color: rgba(255, 255, 255, 0.5); /* Black with 50% opacity */
+    color: rgba(0, 0, 153); /* Keep text readable */
+    padding: 10px;
+}
+
